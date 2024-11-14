@@ -104,5 +104,3 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to adjust any sections according to your specific implementation details or preferences! This comprehensive description should help users understand your project, how to set it up, and how to use it effectively.
